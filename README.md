@@ -1,6 +1,5 @@
 MAGstats - Visualizing the completeness and redundancy of MAGs and draft genomes
 ===
-filename: README.md
 
 ## Quick Start
 
